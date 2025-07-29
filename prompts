@@ -1,1 +1,100 @@
+PROMPT: ##Discovering and Replicating Your Writing Style
+We'll break this down into three phases:
+Phase 1: Data Collection & Preparation - Gathering the raw material for analysis.
+Phase 2: LLM-Powered Analysis - Using specific prompts to deconstruct your style.
+Phase 3: Synthesis & Application - Creating a reusable "style prompt" for new content.
+Phase 1: Data Collection & Preparation
+The quality of the analysis depends entirely on the quality of the data you provide. The LLM needs clear, representative examples of your writing.
+1. What Data to Provide: Collect 3-5 high-quality examples of your writing that you feel best represent the style you want to replicate. Good sources include:
+Published blog posts or articles
+Well-crafted professional emails
+Reports or memos
+Social media posts or threads where you were particularly articulate
+Personal essays or journal entries
+Goal: Aim for a total of 1,500 - 3,000 words. This provides enough data for the model to identify patterns without being overwhelmed.
+2. How to Prepare the Data:
+Clean and Sanitize: Remove any sensitive or private information (names, contact details, confidential project info).
+Combine into a Single Document: Copy and paste the text from your samples into a single text file.
+Use a Clear Separator: Separate each writing sample with a clear, consistent marker. This is crucial for the LLM to understand that these are distinct examples. For instance:
+[PASTE YOUR FIRST WRITING SAMPLE HERE]
+
+--- DOCUMENT SEPARATOR ---
+
+[PASTE YOUR SECOND WRITING SAMPLE HERE]
+
+--- DOCUMENT SEPARATOR ---
+
+[PASTE YOUR THIRD WRITING SAMPLE HERE]
+
+
+You now have a single, clean document ready for analysis.
+Phase 2: LLM-Powered Analysis (The Prompts)
+Now, we'll use a series of prompts to instruct the LLM to analyze your prepared text. This approach uses the "Text Style Unbundling" technique, where we extract specific features from a document to create a style guide.
+Prompt 1: The Master Style Guide
+This is the most important prompt. It asks the LLM to act as an expert and create a detailed style guide based on your work.
+Your Goal: To get a structured, comprehensive breakdown of your writing style.
+The Prompt:
+Act as an expert writing analyst. Your task is to analyze the provided text samples and create a comprehensive style guide that captures the author's unique voice and writing patterns. The text samples are separated by "--- DOCUMENT SEPARATOR ---".
+
+The style guide should be broken down into the following categories. For each category, provide a detailed analysis with specific examples from the text where possible:
+
+1.  **Tone of Voice:** (e.g., Formal, casual, humorous, authoritative, optimistic, analytical, etc.)
+2.  **Vocabulary & Phrasing:** (e.g., Use of industry jargon, colloquialisms, simple or complex words, common phrases, metaphors, or analogies.)
+3.  **Sentence Structure:** (e.g., Short and punchy sentences, long and complex sentences, use of active vs. passive voice, rhythm, and flow.)
+4.  **Formatting & Structure:** (e.g., Use of headings, subheadings, bullet points, numbered lists, bolding, italics, paragraph length.)
+5.  **Core Perspective & Content Focus:** (e.g., Does the author often use storytelling, data-driven arguments, personal anecdotes, or actionable advice? What is the typical perspective they write from?)
+
+Here is the text for analysis:
+---
+[PASTE YOUR COMBINED WRITING SAMPLES HERE]
+---
+
+
+Why this works: By assigning a role ("expert writing analyst") and demanding a specific output format (the numbered categories), you are constraining the model to produce a structured, high-quality analysis that is easy for you to use later.
+Prompt 2: The "Unbundling" Prompt for Reuse
+This prompt is designed to create a description of your style that can be used directly in a new prompt to generate content. This is inspired by the "Meme Unbundling" technique used for image generation.
+Your Goal: To get a descriptive paragraph that can be fed back to the LLM.
+The Prompt:
+Analyze the writing style of the text provided below. Your task is to describe the characteristics and artistic style of the text in a concise paragraph.
+
+Crucially, **do not** mention the author or the specific topics discussed. Focus only on the *style* of the writing itself. The description should be something you could give to another AI to help it replicate the style.
+
+Here is the text for analysis:
+---
+[PASTE ONE OF YOUR BEST WRITING SAMPLES HERE]
+---
+
+
+Why this works: Asking the model to ignore the topic and focus only on the style forces it to abstract the core components of your voice. The output is a perfect "style capsule" to use in the final phase.
+Phase 3: Synthesis & Application
+You've analyzed your style. Now it's time to put it to work.
+1. Create Your "Master Style Prompt":
+Review the output from "Prompt 1" (The Master Style Guide).
+Edit and refine it. You are the ultimate authority on your own style, so correct anything the LLM missed or misinterpreted.
+This edited guide is now your Master Style Guide.
+2. Instruct the LLM to Use Your Style: You can now use your Master Style Guide to rewrite existing text or generate new content. This is the final, reusable prompt.
+Your Goal: To generate new content that sounds just like you.
+The Prompt Template:
+You are a master copy editor. Your task is to rewrite the following text to perfectly match the writing style defined in the style guide below. Adopt the specified tone, vocabulary, and structure.
+
+--- STYLE GUIDE ---
+[PASTE YOUR MASTER STYLE GUIDE HERE]
+---
+
+--- TEXT TO REWRITE ---
+[PASTE THE DRAFT TEXT YOU WANT REWRITTEN HERE]
+---
+
+Rewritten Text:
+
+
+Why this works: This is a classic RAG (Retrieval-Augmented Generation) pattern. You are augmenting the LLM's task with the specific context of your style guide, ensuring the output is grounded in your unique voice, not the LLM's generic one.
+Summary Workflow
+Here is the entire plan in a simple, actionable workflow:
+Gather: Collect 3-5 of your best writing samples (1500+ words total).
+Prepare: Combine them into a single file, separated by --- DOCUMENT SEPARATOR ---.
+Analyze: Use Prompt 1 (The Master Style Guide) on your combined text to get a detailed breakdown.
+Synthesize: Review and edit the LLM's analysis to create your final Master Style Guide.
+Apply: Use the Prompt Template from Phase 3 with your new Master Style Guide to rewrite drafts or generate new content that sounds authentically like you.
+By following this plan, you will move from a generic LLM user to a sophisticated operator who can leverage the model's power while retaining your own unique and valuable voice.
 
