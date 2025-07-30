@@ -1,0 +1,140 @@
+The Output
+My first AI video is a 60-second spot with AI grandparents roasting B2B marketing and promoting Keyplay.io. It cost $25, spent ~4 hours learning + doing. 
+
+📺Watch here
+
+
+Process & Tools Used
+Create a Claude Project with Veo examples and resources.
+Iterate with Claude on the concept and draft a script.
+Ask Claude to write a detailed Veo 3 prompt for each shot, based on the script.
+Paste into Google Flow and generate.
+If it was off, back to Claude for tweaks.
+If it was close, just regenerate (Veo 3 can be random).
+When stuck, I asked ChatGPT for a second opinion.
+Lessons learned and walk through here: 
+
+Veo 3 Prompts Used
+Here are the final prompts used for each of my 7 shots, each with a different grandparent talking about B2B marketing. Note that I mixed it up between “Fast” and “Quality” and generate a few versions for each shot (until it felt right). 
+Shot 1 Prompt
+
+A selfie video of an elderly white woman in her mid-80s with thick tortoiseshell glasses and curly silver hair. She wears a lavender cardigan over a floral blouse. She holds the camera at arm's length, and her thin arm is clearly visible in the frame. The style is YouTube Vlog like. The character squints at a piece of paper in her other hand, occasionally glancing at the camera with confusion. Behind her is a cozy living room with doilies and family photos. She says in a flat monotone voice: Spray and pray marketing is mid. These companies be spending millions targeting everyone. That's giving broke energy. No cap. Sounds: The quiet ticking of a grandfather clock, the distant hum of a television in another room. No subtitles.
+
+Shot 2 Prompt
+
+A selfie video of an elderly Texas man in his early 90s with weathered skin and white stubble. He wears a faded plaid flannel shirt and a worn brown cowboy hat. He holds the camera at arm's length, and his sun-spotted arm is clearly visible in the frame. The style is YouTube Vlog like. The character holds index cards in his other hand, squinting at them through reading glasses. Behind him is a wood-paneled wall with a mounted deer head, several large bass, and framed photos of him holding fishing catches. He reads very slowly from the cards saying: Sheesh bro. Thirty percent of marketing budget wasted on non I-C-P accounts. He pauses then continues reading slowly: That's an L. He looks up at camera confused and says: Martha what's an L. Sounds: The soft hiss of the oxygen tank, a country music station playing quietly on radio in background. No subtitles.
+
+
+Shot 3 Prompt
+
+A street interview style video. Over-the-shoulder shot of a young attractive asian female News reporter holding a microphone with a news logo interviewing an elderly jewish woman. An impeccably dressed elderly woman in her late 80s with perfectly coiffed silver hair faces the camera. She wears a Chanel-style bouclé jacket, massive diamond earrings, and designer sunglasses pushed up on her head. Background: A busy day in New York's Times Square. Reporter speaks first: What's your take on Account-Based Marketing. Elderly woman responds by reading from a small card in a refined accent: A-B-M platforms are NOT the answer. Elderly woman continues: Black box scoring has no rizz. Elderly woman stops reading and lowers the card. She looks at the camera, frustrated now. Sounds: Bustling city traffic, taxi horns, tourist chatter. No subtitles
+
+
+Shot 4 Prompt
+
+A vlog show video of an elderly Indian man in his early 90s with wrinkled dark skin and thin white hair. He wears a crisp white button-down shirt with a navy cardigan and wire-rimmed glasses. The style is YouTube Vlog like. Behind him is an elegant study with leather-bound books and framed university degrees. He holds a smartphone in his other hand and reads from it with clear confusion: "Intent signals are sus. These companies are delulu if they think predictive platforms slap." He puts the phone down completely. Long pause. He looks directly at camera and asks in a refined voice: "What does slap mean. I thought that was bad." Sounds: A grandfather clock ticking, pages turning somewhere nearby. No subtitles.
+
+
+Shot 5 Prompt
+
+A selfie video of an elderly Black man in his late 80s with a dignified presence. He has a white beard and wears a navy beret, mustard sweater, and thick-framed glasses. He’s sitting at a chess table in a sunlit community center. The style is YouTube Vlog like. In one hand, he holds a brochure that says "Modern GTM Strategy." He leans slightly forward and reads aloud in a slow, deliberate tone: "They said... just trust the AI scoring model. That’s like playing chess with no pieces." He then looks straight at the camera. A long pause. "You need a strategy. Not vibes." Sounds: The clicking of a chess clock, light chatter from another table, soft jazz in the background. No subtitles.
+
+
+Shot 6 Prompt:
+
+A sharp-tongued elderly Eastern European woman in her late 80s with short gray curls, wearing a thick knitted shawl and sitting at a small kitchen table covered in spreadsheets. She holds one paper up close to her face, squints, then glares at the camera. She deadpans: "You target 10,000 accounts." She raises an eyebrow. "You book four meetings." Beat. "My grandson could do better with a phone book and a pencil." Then she leans back and mutters: "Get your ICP together." Sounds: Spoon clinking in a teacup, muffled radio playing polka music. No subtitles.
+
+
+Shot 7 Prompt
+
+An elderly man with olive skin in his 90s, bald with large round glasses and suspenders, sits at a computer desk. The screen glows faintly on his face in the otherwise dim room. He slowly leans in toward the webcam and says softly: "ICP solved." Then he nods once. Beat. "Grandparent approved." Fade to black. Sounds: Keyboard tapping softly, faint whirr of an old computer fan. No subtitles. 
+
+
+Shot 8:
+
+The Keyplay logo + “ICP marketing. Grandparent approved.” 
+Note: Added this at the end using iMovie. I’ve used that to make mother’s day videos in the past. Real editors use something like CapCut or Adobe Premiere. 
+Claude Project Set-Up
+First thing I did was create a Claude project with some knowledge about Veo 3 script writing and my POV on B2B marketing. 
+
+
+Resource for Claude Project Knowledge
+
+Greg Isenberg interview with PJ Accetturo (YouTube). Strongly recommend watching this if you want to do a commercial style video. 
+https://www.youtube.com/watch?v=gWkhUd-LWTs 
+
+Kalshi Video Breakdown with prompts (@PJAce on X)
+https://x.com/pjaccetturo/status/1932893260399456513?s=46 
+
+Veo 3 Prompt Advice from Dave Clark (@Diesol on X)
+https://x.com/Diesol/status/1926300507397599412 
+
+Collection of example Veo 3 prompts (via CyberJungle)
+https://docs.google.com/document/d/13rBh3si0p2Z5hWpZlA9E0xT3pDFkr_hHSv0qeJmwRSQ/edit?tab=t.0#heading=h.9p4o3y1opwfy
+
+Fake Watch Brand Prompts (via Freepik)
+https://docs.google.com/document/d/1r0Wd0gDfQ5HBoRZPq9nlKovwou81-MJdiPCo3HiGvng/edit?tab=t.0 
+
+5 Tips for Getting Started (Google)
+https://blog.google/technology/ai/flow-video-tips/
+
+Studied other AI video examples here:
+https://www.peersignal.org/p/ai-marketing-examples 
+
+Claude Prompts
+I had a rough concept in mind and wanted Claude to help me write some script options. Here’s my opener:
+Act as a viral video producer. 
+
+Give me 4 different scripts for a Keyplay video commercial that I’m gonna produce with AI and share on social media. 
+
+I am going to make the commercial using Veo 3. Research Veo 3 best practices so that the script can be easily translated into prompts. 
+
+The commercial should be no more than 6-8 total shots. Ideally ~30 seconds total. 
+It needs a killer hook.
+I want each shot to be a different person in a different situation so it’s easy to produce each piece in Veo 3.
+
+The ending bit should be a tag line where it's like "ICP solved” and then cuts to the Keyplay logo.
+Approach to consider:
+Old people talking about B2B marketing. Nobody has 90-year old influencers. Maybe they use a bunch of Gen Z language like bro and W’s in the chat and “cook” etc. Little statements about ICP and Keyplay. Then it could end with something like 9 out of 10 grandparents recommend Keyplay. Not sure on this idea just riffing.
+
+
+I used this PJ Acceturro prompt as a role model. He walks through this in his interview with Greg Isenberg. That was the most concise and actionable resource I found to guide me on this process. 
+
+Starter prompt for “Puppramin” SNL-style satirical pharmaceutical commercial. 
+Give me 4 different scripts for a standard pharmaceutical commercial for a prescription for a fake medication that solves depression by taking a pill that's a play on words that includes "pup" in the name but it sounds like a real medication.
+So the commercial follows the same format and structure of a 20 second prescription commercial.
+The story starts off like it's people battling depression for the first 10 seconds (with a few different speakers) nothing worked, and then they tried (name). It's a pill that you take, and in 3–5 business days a puppy is delivered to your house. It completely solved their depression.
+The ending bit should be a tag line where it's like "try (pup drug name) from the makers of (other drug name) that has a jet ski reference in the name and we show a shot of someone riding a jet ski super happy.
+So the commercial is kind of an SNL-style satirical take on the standard drug commercial, with the setup sounding and looking like a typical commercial, but then we see the pill that you take is sort of a placebo and really they just drop off a puppy at your house and people's depression is solved.
+So make it humorous and give me 4 different script versions of it with different takes on it.
+Also, none of the actors should be the same, make it all different people and the entire thing is about 20 seconds long.
+"Grandparents Know Best" - Final Script
+Shot 1 - Grandma Reading Deadpan: Selfie video of 85-year-old grandma with thick glasses, holding camera at arm's length. She's clearly reading from something off-screen in a flat, confused voice: "Spray and pray marketing is... mid. These companies be spending millions targeting everyone. That's giving... broke energy?" She squints at the paper. "No cap."
+Shot 2 - Grandpa Struggling: Selfie video of 90-year-old grandpa with oxygen tank, holding index cards. Reading slowly: "Sheesh... bro? Thirty percent of marketing budget wasted on non... I-C-P accounts? That's an... L." Looks at camera confused. "Martha, what's an L?"
+Shot 3 - Farmers Market Confusion: Street interview with elderly woman. Reporter asks: "What's your take on Account-Based Marketing?" She pulls out reading glasses and a crumpled paper: "A-B-M platforms? That's... chew-gy... A-F. Black box scoring has no... rizz?" She looks at reporter: "Is this English?"
+Shot 4 - Distinguished Man, Zero Context: Selfie video of 80-year-old man in suit, reading from phone with arm extended: "Intent signals are... sus. These companies are... delulu... if they think predictive platforms... slap." Long pause. "What does slap mean? I thought that was bad."
+Shot 5 - The One Who Gets It: Selfie video of a different grandma, no script, just talking normally: "I don't know what any of that meant, but Tommy showed me his software. It just shows you which companies to sell to. Why does that cost 300 thousand dollars?"
+Shot 6 - The Payoff: Cut to clean office. The grandma from shot 5 sitting at a computer, nodding approvingly at the screen: "Now THIS makes sense. Focus on the right customers. Don't waste money." She looks at camera: "See? Not everything needs to be so complicated."
+Text appears: "ICP Marketing, grandparent approved." Keyplay logo.
+
+Claude + Google Flow Iterations
+Once I had this script, then I worked with Claude to create the detailed Veo 3 prompt for each shot. I worked shot by shot. I bounced back and forth between Google Flow (generate video) and Claude (generate prompts) until I had the shot right. There was a lot of back and forth at this point. In some cases I asked ChatGPT for a “second opinion” and found that helpful. 
+I did this in the same thread, within my Claude project. Here’s the prompts I used to transitioned from script writing to prompts:
+Ok. Now let's develop each shot into a prompt. Let's do this one at a time. Start with Shot 1.
+Use this as a role model for what we need: A cinematic handheld medium shot, showing a very cute Latina woman in her early 20s wearing a fitted white tank top and faded jean shorts. She stands on the shoulder of a dusty Florida road, holding a microphone out toward an elderly white woman in her late 70s. The old woman stands proudly next to a dented, rust-covered pickup truck with sun-faded paint, facing the camera with a confident smile.
+This part took quite a bit of iteration because I’m a novice. Next time it will be faster because I got a feel for what works.
+It’s rarely a “one shot.” There was a bit of back and forth at this point where I’d get the shot described in Claude, paste into Google Flow, run it a couple times.
+Here’s an example of me pushing Claude to make the dialog more clear:
+hmmm. For some reason Veo is struggling with the audio. It needs to be super duper clear who says which dialog. The ellipsis is causing issues. Lookup Veo prompting best practices with web search and try to solve this please
+In the process, I ended up changing the script a bit on the last couple shots. 
+
+Veo 3 Pricing & Credits
+I had to buy a 2,500 credit pack in Gemini Pro to complete this project. It cost $25. I switched between “Fast” and “Quality” versions of Veo 3. I still have a lot of credits left.
+
+More AI + Marketing Explorations
+
+💌💌 Subscribe to my Substack at PeerSignal.org
+
+👨‍💻👨‍💻 Follow me on LinkedIn https://www.linkedin.com/in/adamschoenfeld/ 
+
+
